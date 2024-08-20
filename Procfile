@@ -1,0 +1,1 @@
+web: streamlit run scoring_model_demo.py --server.port=$PORT
